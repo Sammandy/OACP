@@ -1,0 +1,4 @@
+Test case 1 : 
+0
+Test case 2 : 
+9
